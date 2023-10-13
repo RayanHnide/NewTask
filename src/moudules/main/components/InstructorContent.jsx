@@ -1,5 +1,5 @@
 
-import instructorImg from '../../../assets/Capture.png'
+import instructorImg from '../../../assets/Home.jpg'
 import poster from '../../../assets/children-celebrating-birthday.jpg'
 import { Player } from 'video-react';
 import AOS from 'aos'
